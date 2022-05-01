@@ -15,4 +15,4 @@ El elemento interactivo sería poder desplazar la vista alrededor de la isla y u
 
 ## Estado actual
 
-![Estado actual del proyecto](https://i.imgur.com/57Oi7xl.png)
+![Estado actual del proyecto](https://i.imgur.com/qhH52JP.png)

@@ -13,3 +13,6 @@ El elemento interactivo sería poder desplazar la vista alrededor de la isla y u
 ![Super Mario World 2: Yoshi's Island](https://i.imgur.com/mm3UrkM.png)
 
 
+## Estado actual
+
+![Estado actual del proyecto](https://i.imgur.com/57Oi7xl.png)

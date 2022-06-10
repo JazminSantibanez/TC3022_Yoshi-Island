@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637867052387772269
-    m_Hash: 613477229
+      ticks: 637904109077158270
+    m_Hash: 124388295
   m_LockFileStatus:
     m_FilePath: C:/Users/Jazyd/Documents/Escuela/TC3022_Yoshi-Island/Yoshi Island/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637867052390919383
-    m_Hash: 4113004385
+      ticks: 637904109078823631
+    m_Hash: 2316157634
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -78,6 +78,8 @@ m_PackageAssets:
         - 1.14.13
         - 1.14.15
         - 1.14.16
+        - 1.14.17
+        - 1.14.18
         - 1.15.1
         - 1.15.4
         - 1.15.7
@@ -86,6 +88,8 @@ m_PackageAssets:
         - 1.15.13
         - 1.15.15
         - 1.15.16
+        - 1.15.17
+        - 1.15.18
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -100,6 +104,8 @@ m_PackageAssets:
         - 1.15.13
         - 1.15.15
         - 1.15.16
+        - 1.15.17
+        - 1.15.18
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -110,7 +116,7 @@ m_PackageAssets:
         - 2.1.0-preview.3
         - 2.1.0-preview.5
         - 2.1.0-preview.6
-        verified: 1.15.16
+        verified: 1.15.18
       dependencies:
       - name: com.unity.services.core
         version: 1.0.1
@@ -152,6 +158,118 @@ m_PackageAssets:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
         revision: 825774911ad2d1440ac844c9be1ae2c9b5dc7966
+        path: 
+    - packageId: com.unity.formats.fbx@4.1.2
+      testable: 0
+      isDirectDependency: 1
+      version: 4.1.2
+      source: 1
+      resolvedPath: C:\Users\Jazyd\Documents\Escuela\TC3022_Yoshi-Island\Yoshi Island\Library\PackageCache\com.unity.formats.fbx@4.1.2
+      assetPath: Packages/com.unity.formats.fbx
+      name: com.unity.formats.fbx
+      displayName: FBX Exporter
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: "The Unity FBX Exporter package makes it easy to send geometry
+        and animation to any application that supports the FBX format and send them
+        back to Unity with minimal effort.\n\nIn particular, this round-trip workflow
+        enables you to export Unity Scenes to FBX files, import them into Autodesk\xAE
+        Maya\xAE, Autodesk\xAE Maya LT\u2122, or Autodesk\xAE 3ds Max\xAE using an
+        artist-friendly interface, export Unity-ready FBX geometry and animation,
+        and safely merge your changes back into those Assets to continue your work
+        in Unity."
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.0.1-preview.2
+        - 2.0.1-preview.3
+        - 2.0.1-preview.4
+        - 2.0.1-preview.5
+        - 2.0.1-preview.11
+        - 2.0.2-preview.1
+        - 2.0.3-preview.3
+        - 3.0.0-preview.2
+        - 3.0.1-preview.2
+        - 3.1.0-preview.1
+        - 3.2.0-preview.2
+        - 3.2.1-preview.2
+        - 4.0.0-pre.1
+        - 4.0.0-pre.4
+        - 4.0.1
+        - 4.1.0-pre.2
+        - 4.1.0
+        - 4.1.1
+        - 4.1.2
+        - 4.2.0-pre.1
+        compatible:
+        - 2.0.1-preview.2
+        - 2.0.1-preview.4
+        - 2.0.1-preview.5
+        - 2.0.1-preview.11
+        - 2.0.2-preview.1
+        - 2.0.3-preview.3
+        - 3.0.0-preview.2
+        - 3.0.1-preview.2
+        - 3.1.0-preview.1
+        - 3.2.0-preview.2
+        - 3.2.1-preview.2
+        - 4.0.0-pre.1
+        - 4.0.0-pre.4
+        - 4.0.1
+        - 4.1.0-pre.2
+        - 4.1.0
+        - 4.1.1
+        - 4.1.2
+        - 4.2.0-pre.1
+        verified: 
+      dependencies:
+      - name: com.unity.timeline
+        version: 1.5.2
+      - name: com.autodesk.fbx
+        version: 4.1.1
+      resolvedDependencies:
+      - name: com.unity.timeline
+        version: 1.5.2
+      - name: com.unity.modules.director
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      - name: com.unity.modules.particlesystem
+        version: 1.0.0
+      - name: com.autodesk.fbx
+        version: 4.1.1
+      keywords:
+      - fbx
+      - animation
+      - modeling
+      - maya
+      - max
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637733605130000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.com/Unity-Technologies/com.unity.formats.fbx.git
+        revision: 2daae3674ab93a799fbb71611abb1440e5d0e527
         path: 
     - packageId: com.unity.ide.rider@2.0.7
       testable: 0
@@ -919,172 +1037,6 @@ m_PackageAssets:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git
         revision: 01e57e3b7de18af9dfe9baaa0a0ff5cc4765c899
-        path: 
-    - packageId: com.unity.timeline@1.4.8
-      testable: 0
-      isDirectDependency: 1
-      version: 1.4.8
-      source: 1
-      resolvedPath: C:\Users\Jazyd\Documents\Escuela\TC3022_Yoshi-Island\Yoshi Island\Library\PackageCache\com.unity.timeline@1.4.8
-      assetPath: Packages/com.unity.timeline
-      name: com.unity.timeline
-      displayName: Timeline
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: Use Unity Timeline to create cinematic content, game-play sequences,
-        audio sequences, and complex particle effects.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 1.2.0
-        - 1.2.1
-        - 1.2.2
-        - 1.2.3
-        - 1.2.4
-        - 1.2.5
-        - 1.2.6
-        - 1.2.7
-        - 1.2.9
-        - 1.2.10
-        - 1.2.11
-        - 1.2.12
-        - 1.2.13
-        - 1.2.14
-        - 1.2.15
-        - 1.2.16
-        - 1.2.17
-        - 1.2.18
-        - 1.3.0-preview.2
-        - 1.3.0-preview.3
-        - 1.3.0-preview.5
-        - 1.3.0-preview.6
-        - 1.3.0-preview.7
-        - 1.3.0
-        - 1.3.1
-        - 1.3.2
-        - 1.3.3
-        - 1.3.4
-        - 1.3.5
-        - 1.3.6
-        - 1.3.7
-        - 1.4.0-preview.1
-        - 1.4.0-preview.2
-        - 1.4.0-preview.3
-        - 1.4.0-preview.5
-        - 1.4.0-preview.6
-        - 1.4.0-preview.7
-        - 1.4.0
-        - 1.4.1
-        - 1.4.2
-        - 1.4.3
-        - 1.4.4
-        - 1.4.5
-        - 1.4.6
-        - 1.4.7
-        - 1.4.8
-        - 1.5.0-pre.2
-        - 1.5.0-preview.1
-        - 1.5.0-preview.2
-        - 1.5.0-preview.3
-        - 1.5.0-preview.4
-        - 1.5.0-preview.5
-        - 1.5.1-pre.1
-        - 1.5.1-pre.2
-        - 1.5.1-pre.3
-        - 1.5.2
-        - 1.5.4
-        - 1.5.5
-        - 1.5.6
-        - 1.5.7
-        - 1.6.0-pre.1
-        - 1.6.0-pre.3
-        - 1.6.0-pre.4
-        - 1.6.0-pre.5
-        - 1.6.1
-        - 1.6.2
-        - 1.6.3
-        - 1.6.4
-        - 1.7.0-pre.1
-        - 1.7.0-pre.2
-        - 1.7.0
-        - 1.7.1
-        compatible:
-        - 1.4.8
-        - 1.5.0-pre.2
-        - 1.5.0-preview.1
-        - 1.5.0-preview.2
-        - 1.5.0-preview.3
-        - 1.5.0-preview.4
-        - 1.5.0-preview.5
-        - 1.5.1-pre.1
-        - 1.5.1-pre.2
-        - 1.5.1-pre.3
-        - 1.5.2
-        - 1.5.4
-        - 1.5.5
-        - 1.5.6
-        - 1.5.7
-        - 1.6.0-pre.1
-        - 1.6.0-pre.3
-        - 1.6.0-pre.4
-        - 1.6.0-pre.5
-        - 1.6.1
-        - 1.6.2
-        - 1.6.3
-        - 1.6.4
-        - 1.7.0-pre.1
-        - 1.7.0-pre.2
-        - 1.7.0
-        - 1.7.1
-        verified: 1.4.8
-      dependencies:
-      - name: com.unity.modules.director
-        version: 1.0.0
-      - name: com.unity.modules.animation
-        version: 1.0.0
-      - name: com.unity.modules.audio
-        version: 1.0.0
-      - name: com.unity.modules.particlesystem
-        version: 1.0.0
-      resolvedDependencies:
-      - name: com.unity.modules.director
-        version: 1.0.0
-      - name: com.unity.modules.audio
-        version: 1.0.0
-      - name: com.unity.modules.animation
-        version: 1.0.0
-      - name: com.unity.modules.particlesystem
-        version: 1.0.0
-      keywords:
-      - unity
-      - animation
-      - editor
-      - timeline
-      - tools
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637557616100000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-        revision: 527e4364e28028f20f04fc51db671eb4bb910a26
         path: 
     - packageId: com.unity.ugui@1.0.0
       testable: 0
@@ -3016,6 +2968,257 @@ m_PackageAssets:
         url: git+https://github.com/Unity-Technologies/com.unity.settings-manager.git
         revision: 473664ccba1496294b741cf169740a5d54b3d0b6
         path: 
+    - packageId: com.unity.timeline@1.5.2
+      testable: 0
+      isDirectDependency: 1
+      version: 1.5.2
+      source: 1
+      resolvedPath: C:\Users\Jazyd\Documents\Escuela\TC3022_Yoshi-Island\Yoshi Island\Library\PackageCache\com.unity.timeline@1.5.2
+      assetPath: Packages/com.unity.timeline
+      name: com.unity.timeline
+      displayName: Timeline
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Use Unity Timeline to create cinematic content, game-play sequences,
+        audio sequences, and complex particle effects.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.2.0
+        - 1.2.1
+        - 1.2.2
+        - 1.2.3
+        - 1.2.4
+        - 1.2.5
+        - 1.2.6
+        - 1.2.7
+        - 1.2.9
+        - 1.2.10
+        - 1.2.11
+        - 1.2.12
+        - 1.2.13
+        - 1.2.14
+        - 1.2.15
+        - 1.2.16
+        - 1.2.17
+        - 1.2.18
+        - 1.3.0-preview.2
+        - 1.3.0-preview.3
+        - 1.3.0-preview.5
+        - 1.3.0-preview.6
+        - 1.3.0-preview.7
+        - 1.3.0
+        - 1.3.1
+        - 1.3.2
+        - 1.3.3
+        - 1.3.4
+        - 1.3.5
+        - 1.3.6
+        - 1.3.7
+        - 1.4.0-preview.1
+        - 1.4.0-preview.2
+        - 1.4.0-preview.3
+        - 1.4.0-preview.5
+        - 1.4.0-preview.6
+        - 1.4.0-preview.7
+        - 1.4.0
+        - 1.4.1
+        - 1.4.2
+        - 1.4.3
+        - 1.4.4
+        - 1.4.5
+        - 1.4.6
+        - 1.4.7
+        - 1.4.8
+        - 1.5.0-pre.2
+        - 1.5.0-preview.1
+        - 1.5.0-preview.2
+        - 1.5.0-preview.3
+        - 1.5.0-preview.4
+        - 1.5.0-preview.5
+        - 1.5.1-pre.1
+        - 1.5.1-pre.2
+        - 1.5.1-pre.3
+        - 1.5.2
+        - 1.5.4
+        - 1.5.5
+        - 1.5.6
+        - 1.5.7
+        - 1.6.0-pre.1
+        - 1.6.0-pre.3
+        - 1.6.0-pre.4
+        - 1.6.0-pre.5
+        - 1.6.1
+        - 1.6.2
+        - 1.6.3
+        - 1.6.4
+        - 1.7.0-pre.1
+        - 1.7.0-pre.2
+        - 1.7.0
+        - 1.7.1
+        compatible:
+        - 1.4.8
+        - 1.5.0-pre.2
+        - 1.5.0-preview.1
+        - 1.5.0-preview.2
+        - 1.5.0-preview.3
+        - 1.5.0-preview.4
+        - 1.5.0-preview.5
+        - 1.5.1-pre.1
+        - 1.5.1-pre.2
+        - 1.5.1-pre.3
+        - 1.5.2
+        - 1.5.4
+        - 1.5.5
+        - 1.5.6
+        - 1.5.7
+        - 1.6.0-pre.1
+        - 1.6.0-pre.3
+        - 1.6.0-pre.4
+        - 1.6.0-pre.5
+        - 1.6.1
+        - 1.6.2
+        - 1.6.3
+        - 1.6.4
+        - 1.7.0-pre.1
+        - 1.7.0-pre.2
+        - 1.7.0
+        - 1.7.1
+        verified: 1.4.8
+      dependencies:
+      - name: com.unity.modules.director
+        version: 1.0.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.modules.particlesystem
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.director
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      - name: com.unity.modules.particlesystem
+        version: 1.0.0
+      keywords:
+      - unity
+      - animation
+      - editor
+      - timeline
+      - tools
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637462521340000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
+        revision: 7bdad7882133452ed8b2cd5bfca556726d3e7a64
+        path: 
+    - packageId: com.autodesk.fbx@4.1.1
+      testable: 0
+      isDirectDependency: 0
+      version: 4.1.1
+      source: 1
+      resolvedPath: C:\Users\Jazyd\Documents\Escuela\TC3022_Yoshi-Island\Yoshi Island\Library\PackageCache\com.autodesk.fbx@4.1.1
+      assetPath: Packages/com.autodesk.fbx
+      name: com.autodesk.fbx
+      displayName: Autodesk FBX SDK for Unity
+      author:
+        name: Unity
+        email: 
+        url: 
+      category: 
+      type: 
+      description: "This package provides Unity C# bindings to the Autodesk\xAE FBX\xAE
+        SDK."
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.0.0-preview
+        - 2.0.0-preview.4
+        - 2.0.0-preview.5
+        - 2.0.0-preview.6
+        - 2.0.0-preview.7
+        - 2.0.1-preview.1
+        - 3.0.0-preview.1
+        - 3.0.1-preview.1
+        - 3.1.0-preview.1
+        - 3.1.0-preview.2
+        - 4.0.0-pre.1
+        - 4.0.0-pre.2
+        - 4.0.1
+        - 4.1.0-pre.1
+        - 4.1.0
+        - 4.1.1
+        - 4.2.0-pre.1
+        compatible:
+        - 2.0.0-preview
+        - 2.0.0-preview.4
+        - 2.0.0-preview.5
+        - 2.0.0-preview.6
+        - 2.0.0-preview.7
+        - 2.0.1-preview.1
+        - 3.0.0-preview.1
+        - 3.0.1-preview.1
+        - 3.1.0-preview.1
+        - 3.1.0-preview.2
+        - 4.0.0-pre.1
+        - 4.0.0-pre.2
+        - 4.0.1
+        - 4.1.0-pre.1
+        - 4.1.0
+        - 4.1.1
+        - 4.2.0-pre.1
+        verified: 
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - fbx
+      - animation
+      - modeling
+      - maya
+      - max
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637668642230000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/com.autodesk.fbx.git
+        revision: b6cd1211ff8824752e3dcbf05f426bac266606a0
+        path: 
     - packageId: com.unity.services.core@1.0.1
       testable: 0
       isDirectDependency: 0
@@ -3051,6 +3254,8 @@ m_PackageAssets:
         - 1.2.0
         - 1.3.1
         - 1.3.2
+        - 1.4.0
+        - 1.4.1
         compatible:
         - 1.0.1
         - 1.1.0-pre.7
@@ -3063,6 +3268,8 @@ m_PackageAssets:
         - 1.2.0
         - 1.3.1
         - 1.3.2
+        - 1.4.0
+        - 1.4.1
         verified: 1.0.1
       dependencies:
       - name: com.unity.modules.unitywebrequest

@@ -15,11 +15,11 @@ C:/Users/Jazyd/Documents/Escuela/TC3022_Yoshi-Island/Yoshi Island
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-31543
+1072
 Successfully changed project path to: C:/Users/Jazyd/Documents/Escuela/TC3022_Yoshi-Island/Yoshi Island
 C:/Users/Jazyd/Documents/Escuela/TC3022_Yoshi-Island/Yoshi Island
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 38.93 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 48.85 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.31f1 (6b54b7616050)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Resources/UnitySubsystems
@@ -35,92 +35,92 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56548
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56764
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003294 seconds.
+Registered in 0.004350 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 37.01 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 48.03 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.665 seconds
+- Completed reload, in  0.762 seconds
 Domain Reload Profiling:
-	ReloadAssembly (665ms)
-		BeginReloadAssembly (76ms)
+	ReloadAssembly (762ms)
+		BeginReloadAssembly (94ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (508ms)
-			LoadAssemblies (74ms)
+		EndReloadAssembly (574ms)
+			LoadAssemblies (91ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (177ms)
+			SetupTypeCache (183ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (34ms)
-			SetupLoadedEditorAssemblies (179ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (210ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (37ms)
-				BeforeProcessingInitializeOnLoad (9ms)
-				ProcessInitializeOnLoadAttributes (85ms)
-				ProcessInitializeOnLoadMethodAttributes (42ms)
+				RefreshPlugins (48ms)
+				BeforeProcessingInitializeOnLoad (12ms)
+				ProcessInitializeOnLoadAttributes (103ms)
+				ProcessInitializeOnLoadMethodAttributes (39ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004756 seconds.
+Registered in 0.005482 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.218 seconds
+- Completed reload, in  1.213 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1219ms)
-		BeginReloadAssembly (183ms)
+	ReloadAssembly (1215ms)
+		BeginReloadAssembly (178ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (22ms)
-		EndReloadAssembly (956ms)
-			LoadAssemblies (120ms)
+		EndReloadAssembly (966ms)
+			LoadAssemblies (117ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (367ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (54ms)
-			SetupLoadedEditorAssemblies (330ms)
+			SetupTypeCache (327ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (375ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (69ms)
-				ProcessInitializeOnLoadAttributes (235ms)
-				ProcessInitializeOnLoadMethodAttributes (11ms)
-				AfterProcessingInitializeOnLoad (8ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (84ms)
+				ProcessInitializeOnLoadAttributes (263ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (11ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1896 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.9 MB.
-System memory in use after: 85.9 MB.
+Unloading 2128 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.4 MB.
+System memory in use after: 93.5 MB.
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2336.
-Total: 4.874500 ms (FindLiveObjects: 0.252300 ms CreateObjectMapping: 0.101500 ms MarkObjects: 4.379500 ms  DeleteObjects: 0.139700 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2565.
+Total: 3.375000 ms (FindLiveObjects: 0.185400 ms CreateObjectMapping: 0.099500 ms MarkObjects: 2.993900 ms  DeleteObjects: 0.095200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -134,79 +134,31 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/FlowerRojo.blend
-  artifactKey: Guid(47f374518a9e87142bf6f866f058bb09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlowerRojo.blend using Guid(47f374518a9e87142bf6f866f058bb09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f948f2fbfda7d6ed46714a0b60429d') in 0.234752 seconds 
+  path: Assets/Small Mountain 1.prefab
+  artifactKey: Guid(53b74d2f456d1c04db646d01c2458173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Small Mountain 1.prefab using Guid(53b74d2f456d1c04db646d01c2458173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a54eb0b06eb7d3262cd75bab487035f3') in 0.191478 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 143.205838 seconds.
-  path: Assets/FlowerRojo.obj
-  artifactKey: Guid(fefc182b96544864ca34ed6510e7e9e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlowerRojo.obj using Guid(fefc182b96544864ca34ed6510e7e9e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb06d73de25821e9697dde7b4664fd7e') in 0.279804 seconds 
+  Time since last request: 11850.318484 seconds.
+  path: Assets/FBX/sMountain Texture.png
+  artifactKey: Guid(526a3778302c6ff498bdb42e07f22940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/sMountain Texture.png using Guid(526a3778302c6ff498bdb42e07f22940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cf4767372442c761ccab906b2970704') in 0.177724 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 51.791249 seconds.
-  path: Assets/FlowerRojo.blend
-  artifactKey: Guid(47f374518a9e87142bf6f866f058bb09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlowerRojo.blend using Guid(47f374518a9e87142bf6f866f058bb09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fe521c0d0433804c90c2de9a9d3550f') in 0.055161 seconds 
+  Time since last request: 0.783596 seconds.
+  path: Assets/FBX/SmallMountain.blend1
+  artifactKey: Guid(c223b3680af63a449b21989cd668e29a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/SmallMountain.blend1 using Guid(c223b3680af63a449b21989cd668e29a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9daaf202dbd34f9c3a842c43c3772d06') in 0.005895 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 6388.939846 seconds.
-  path: Assets/FlowerRojo.obj
-  artifactKey: Guid(fefc182b96544864ca34ed6510e7e9e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlowerRojo.obj using Guid(fefc182b96544864ca34ed6510e7e9e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fbff76e4d43492edb5bdaba45e670e7') in 0.075008 seconds 
+  Time since last request: 29.383142 seconds.
+  path: Assets/FBX/SmallMountain.fbx
+  artifactKey: Guid(1620ee940b81a0046b4afdaa730ee793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/SmallMountain.fbx using Guid(1620ee940b81a0046b4afdaa730ee793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b68d2c98adb8358446e69d31902ba35') in 0.013679 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 102.341281 seconds.
-  path: Assets/FlowerRed.fbx
-  artifactKey: Guid(9cd9d6c9988435240b2776efd42aa2b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FlowerRed.fbx using Guid(9cd9d6c9988435240b2776efd42aa2b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df049d8a4f8b27ef42c891d6ed87bf02') in 0.025273 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 400.254669 seconds.
-  path: Assets/FBX/Flower Red.png
-  artifactKey: Guid(6b454333756149c4aa245f5854b1faf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/Flower Red.png using Guid(6b454333756149c4aa245f5854b1faf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1820c9395ea9b861c69b8034f234d0a3') in 0.060695 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000353 seconds.
-  path: Assets/FBX/FlowerRed.fbx
-  artifactKey: Guid(9fe62b686a2367c4f95f79616992a517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/FlowerRed.fbx using Guid(9fe62b686a2367c4f95f79616992a517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58652c4f6ead03fc2e17bcdc616ce73d') in 0.025817 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 199.245824 seconds.
-  path: Assets/FBX/FlowerRed.fbx
-  artifactKey: Guid(9fe62b686a2367c4f95f79616992a517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/FlowerRed.fbx using Guid(9fe62b686a2367c4f95f79616992a517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a43e6b597a5360759f25e411c855ce9') in 0.039640 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.941599 seconds.
-  path: Assets/FBX/FlowerRed.fbx
-  artifactKey: Guid(9fe62b686a2367c4f95f79616992a517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/FlowerRed.fbx using Guid(9fe62b686a2367c4f95f79616992a517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfd165f938c0fbc82a48fd3af96f4662') in 0.025135 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 63.946827 seconds.
-  path: Assets/FBX/FlowerRed.fbx
-  artifactKey: Guid(9fe62b686a2367c4f95f79616992a517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/FlowerRed.fbx using Guid(9fe62b686a2367c4f95f79616992a517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '050ccf6d8c823f39063a4363ec27fb99') in 0.022996 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 78.279137 seconds.
-  path: Assets/FBX/FlowerRed.fbx
-  artifactKey: Guid(9fe62b686a2367c4f95f79616992a517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/FlowerRed.fbx using Guid(9fe62b686a2367c4f95f79616992a517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c2251d76b1645dcf47c52e76cc2b68') in 0.018981 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1002.364867 seconds.
-  path: Assets/FBX/FlowerRed 1.fbx
-  artifactKey: Guid(448ec45463a03444b88c301e851ea190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/FlowerRed 1.fbx using Guid(448ec45463a03444b88c301e851ea190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be4e1ca637a356e81700619db35106f2') in 0.010365 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 19.877725 seconds.
-  path: Assets/FBX/FlowerRed.fbx
-  artifactKey: Guid(9fe62b686a2367c4f95f79616992a517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/FlowerRed.fbx using Guid(9fe62b686a2367c4f95f79616992a517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b839be11452bdee1aea61bc1fa5271e') in 0.008721 seconds 
+  Time since last request: 43.380533 seconds.
+  path: Assets/FBX/SmallMountain.fbx
+  artifactKey: Guid(1620ee940b81a0046b4afdaa730ee793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/SmallMountain.fbx using Guid(1620ee940b81a0046b4afdaa730ee793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44412bb53bfe762a4665869a806e39d9') in 0.100754 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

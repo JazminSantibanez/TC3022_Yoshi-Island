@@ -15,11 +15,11 @@ C:/Users/Jazyd/Documents/Escuela/TC3022_Yoshi-Island/Yoshi Island
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-1064
+6549
 Successfully changed project path to: C:/Users/Jazyd/Documents/Escuela/TC3022_Yoshi-Island/Yoshi Island
 C:/Users/Jazyd/Documents/Escuela/TC3022_Yoshi-Island/Yoshi Island
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 42.49 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 54.27 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.31f1 (6b54b7616050)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Resources/UnitySubsystems
@@ -35,92 +35,92 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56728
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56028
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003394 seconds.
+Registered in 0.003269 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 60.41 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 41.43 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.802 seconds
+- Completed reload, in  0.624 seconds
 Domain Reload Profiling:
-	ReloadAssembly (802ms)
-		BeginReloadAssembly (101ms)
+	ReloadAssembly (624ms)
+		BeginReloadAssembly (78ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (612ms)
-			LoadAssemblies (98ms)
+		EndReloadAssembly (469ms)
+			LoadAssemblies (76ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (175ms)
+			SetupTypeCache (158ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (38ms)
-			SetupLoadedEditorAssemblies (274ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (169ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (8ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (61ms)
-				BeforeProcessingInitializeOnLoad (10ms)
-				ProcessInitializeOnLoadAttributes (141ms)
-				ProcessInitializeOnLoadMethodAttributes (54ms)
+				RefreshPlugins (42ms)
+				BeforeProcessingInitializeOnLoad (9ms)
+				ProcessInitializeOnLoadAttributes (84ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005195 seconds.
+Registered in 0.004801 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.147 seconds
+- Completed reload, in  1.149 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1149ms)
-		BeginReloadAssembly (168ms)
+	ReloadAssembly (1150ms)
+		BeginReloadAssembly (167ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (20ms)
-		EndReloadAssembly (911ms)
-			LoadAssemblies (117ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (919ms)
+			LoadAssemblies (112ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (297ms)
+			SetupTypeCache (302ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (47ms)
-			SetupLoadedEditorAssemblies (355ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (372ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (73ms)
-				ProcessInitializeOnLoadAttributes (257ms)
-				ProcessInitializeOnLoadMethodAttributes (9ms)
-				AfterProcessingInitializeOnLoad (9ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (72ms)
+				ProcessInitializeOnLoadAttributes (271ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (10ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2128 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 93.4 MB.
 System memory in use after: 93.5 MB.
 
 Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2565.
-Total: 3.015700 ms (FindLiveObjects: 0.194500 ms CreateObjectMapping: 0.102200 ms MarkObjects: 2.623500 ms  DeleteObjects: 0.094700 ms)
+Total: 2.864100 ms (FindLiveObjects: 0.144900 ms CreateObjectMapping: 0.080900 ms MarkObjects: 2.537400 ms  DeleteObjects: 0.100200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -134,31 +134,25 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/FBX/SmallMountain.fbx
-  artifactKey: Guid(1620ee940b81a0046b4afdaa730ee793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/SmallMountain.fbx using Guid(1620ee940b81a0046b4afdaa730ee793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8507fb9efb113a3627fd162f5af27f') in 0.312190 seconds 
+  path: Assets/FBX/Mid MountainT.fbx
+  artifactKey: Guid(711cc3fcf8135f2418074a2d46d5238d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Mid MountainT.fbx using Guid(711cc3fcf8135f2418074a2d46d5238d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4881160df5cf1d2038022a3a50b0f8e') in 0.311880 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1538.354673 seconds.
-  path: Assets/FBX/SmallMountain.fbx
-  artifactKey: Guid(1620ee940b81a0046b4afdaa730ee793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/SmallMountain.fbx using Guid(1620ee940b81a0046b4afdaa730ee793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2786b6c6e998d9cde6049538ab68352') in 0.154313 seconds 
+  Time since last request: 0.000263 seconds.
+  path: Assets/FBX/Med Mountain Texture.png
+  artifactKey: Guid(2541d0d459c9f8f4dbc9b690df3babdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Med Mountain Texture.png using Guid(2541d0d459c9f8f4dbc9b690df3babdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a217968816deca648844622e3ca4a677') in 0.107437 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 755.282951 seconds.
-  path: Assets/FBX/SmallMountain.fbx
-  artifactKey: Guid(1620ee940b81a0046b4afdaa730ee793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/SmallMountain.fbx using Guid(1620ee940b81a0046b4afdaa730ee793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b940c14059eebbb35f0b21b447d307de') in 0.025779 seconds 
+  Time since last request: 101.433888 seconds.
+  path: Assets/FBX/MedMountainT.fbx
+  artifactKey: Guid(2ff0903d5a20674479fa83d93b25210d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/MedMountainT.fbx using Guid(2ff0903d5a20674479fa83d93b25210d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d4cfae73c7d6211f511b9104fe3ff8') in 0.020878 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 259.722785 seconds.
-  path: Assets/FBX/SmallMountain.fbx
-  artifactKey: Guid(1620ee940b81a0046b4afdaa730ee793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/SmallMountain.fbx using Guid(1620ee940b81a0046b4afdaa730ee793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b85860860c7925ee44dca497b2acb3b') in 0.172845 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000465 seconds.
-  path: Assets/FBX/sMountain Texture.png
-  artifactKey: Guid(526a3778302c6ff498bdb42e07f22940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FBX/sMountain Texture.png using Guid(526a3778302c6ff498bdb42e07f22940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d4c41e4d1740026dab4e1c71b88ce99') in 0.122992 seconds 
+  Time since last request: 85.270016 seconds.
+  path: Assets/FBX/MedMountainT.fbx
+  artifactKey: Guid(2ff0903d5a20674479fa83d93b25210d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/MedMountainT.fbx using Guid(2ff0903d5a20674479fa83d93b25210d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4c13366b8dce4ea8c2de4cd61cfdf6f') in 0.023708 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

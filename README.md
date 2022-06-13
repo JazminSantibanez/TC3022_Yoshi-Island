@@ -22,9 +22,8 @@ El elemento interactivo sería poder desplazar la vista alrededor de la isla y u
 ### Estado actual
 ![Estado actual del proyecto](https://i.imgur.com/QMn9qeA.png)
 
-
-https://user-images.githubusercontent.com/56079667/173311639-e40d607b-4ea3-4eb1-aad6-c46185c3ac6f.mp4
+[Video del proyecto](https://streamable.com/7m6mkr)
 
 ### Créditos
 - Modelo 3d de Yoshi sentado y 3 huevos - Hecho por Rafa en [Sketchfab](https://sketchfab.com/3d-models/yoshi-plushie-11c50c900f764f1da1414aa3243c1a75)
-- Icono de 'mute' y 'music' hecho por frans wahyu en [Flaticon](https://www.flaticon.com/search?author_id=1314&style_id=1223&type=standard&word=music)
+- Icono de 'mute' y 'music' - Hecho por frans wahyu en [Flaticon](https://www.flaticon.com/search?author_id=1314&style_id=1223&type=standard&word=music)

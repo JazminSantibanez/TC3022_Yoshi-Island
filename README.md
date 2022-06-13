@@ -7,20 +7,19 @@ Jazmín Yolistli Santibáñez de la Rosa A01234029
 Unity
 
 ## Descripción de la escena
-Escena de la isla de _Super Mario World 2: Yoshi's Island_ que consiste en una isla con montañas elevadas y nevadas, montañas de menor tamaño y árboles. También cuenta con algunas estructuras como torres de diferentes tamaños, un lago y vegetación como flores y hongos.
-El elemento interactivo sería poder desplazar la vista alrededor de la isla y un un ligero movimiento de rebote en algunas flores.
+Escena de la isla de _Super Mario World 2: Yoshi's Island_ que consiste en una isla con montañas elevadas y nevadas, montañas de menor tamaño y árboles. También cuenta con algunas estructuras como torres de diferentes tamaños, un lago y vegetación como flores y hongos. También hay un Yoshi sentado junto a 3 huevos.
+El elemento interactivo sería poder desplazar la vista alrededor de la isla y un movimiento de rebote en los huevos y en la torre mini de las montañas.
 
 ![Super Mario World 2: Yoshi's Island](https://i.imgur.com/mm3UrkM.png)
 
-
-## Estado actual
+## Imágemes
 ### Entrega 2
 ![Entrega 2](https://i.imgur.com/qhH52JP.png)
 ### Entrega 3
 ![Entrega 3](https://i.imgur.com/pAyYYEM.png)
 
-### Estado actual
-![Estado actual del proyecto](https://i.imgur.com/QMn9qeA.png)
+### Estado Final
+![Estado final del proyecto](https://i.imgur.com/QMn9qeA.png)
 
 [Video del proyecto](https://streamable.com/7m6mkr)
 

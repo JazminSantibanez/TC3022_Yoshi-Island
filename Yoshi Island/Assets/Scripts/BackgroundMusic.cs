@@ -8,9 +8,9 @@ public class BackgroundMusic : MonoBehaviour
     private static BackgroundMusic backgroundMusic;
 
     /*
-        Funcion a ejecutar al inicio.
-        Si detecta un objeto de tipo BackgroundMusic, lo destruye.
-        Si no, crea uno.
+        Function that is executed at the execution.
+        If an object of type BackgroundMusic is detected, it will be destroyed.
+        If there is no object, it will be created.
     */
     void Awake()
     {

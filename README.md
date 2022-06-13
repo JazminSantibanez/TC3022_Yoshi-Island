@@ -24,6 +24,8 @@ El elemento interactivo sería poder desplazar la vista alrededor de la isla y u
 
 [Video del proyecto](https://streamable.com/7m6mkr)
 
+El proyecto es ejecutable en [Unity Web](https://play.unity.com/mg/other/yoshi-island-build)
+
 ### Créditos
 - Modelo 3d de Yoshi sentado y 3 huevos - Hecho por Rafa en [Sketchfab](https://sketchfab.com/3d-models/yoshi-plushie-11c50c900f764f1da1414aa3243c1a75)
 - Icono de 'mute' y 'music' - Hecho por frans wahyu en [Flaticon](https://www.flaticon.com/search?author_id=1314&style_id=1223&type=standard&word=music)
